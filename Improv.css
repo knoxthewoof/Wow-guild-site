@@ -1,3 +1,18 @@
-﻿.guild {background-color: mediumblue;
-  
+﻿body {background-color: black;
+  color: white;
+}
+
+h1 {text-align: center
+
+}
+
+.guild {background: teal;
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        font-size: 17px;
+        padding-left: 300px;
+        padding-right:300px;
+        border-style: solid;
+            
 }
