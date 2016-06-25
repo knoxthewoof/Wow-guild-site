@@ -2,8 +2,14 @@
   color: white;
 }
 
-h1 {text-align: center
+h1 {text-align: center;
+        color: teal;
+        
+}
 
+h2 {text-align: center;
+        color: teal;
+        
 }
 
 .guild {background: teal;
