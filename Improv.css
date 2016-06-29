@@ -1,5 +1,5 @@
-﻿body {background-color: black;
-  color: white;
+﻿body {background-image: url("WOW-Legion.jpg");
+        background-size: cover;
 }
 
 h1 {text-align: center;
@@ -12,7 +12,8 @@ h2 {text-align: center;
         
 }
 
-.guild {background: teal;
+.guild {background-color: black;
+        color: teal;
         text-align: center;
         padding-top: 50px;
         padding-bottom: 50px;
